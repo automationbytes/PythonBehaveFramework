@@ -1,0 +1,265 @@
+1659798746297	geckodriver	INFO	Listening on 127.0.0.1:52067
+1659798749409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileTsWnZL"
+1659798750011	Marionette	INFO	Marionette enabled
+1659798750021	Marionette	INFO	Listening on port 52079
+WebDriver BiDi listening on ws://localhost:52068
+Read port: 52079
+1659798750281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileTsWnZL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52068/devtools/browser/6bf05478-9fa5-4003-a234-b438eefef87c
+1659798893436	geckodriver	INFO	Listening on 127.0.0.1:52210
+1659798896514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileB6YAH2"
+1659798897034	Marionette	INFO	Marionette enabled
+1659798897040	Marionette	INFO	Listening on port 52222
+WebDriver BiDi listening on ws://localhost:52211
+Read port: 52222
+1659798897293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileB6YAH2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52211/devtools/browser/b6be1d21-5a10-497c-898a-0a91c87e6b14
+1659798956964	geckodriver	INFO	Listening on 127.0.0.1:52298
+1659798960026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileAO8eBq"
+1659798960562	Marionette	INFO	Marionette enabled
+1659798960569	Marionette	INFO	Listening on port 52309
+WebDriver BiDi listening on ws://localhost:52299
+Read port: 52309
+1659798960851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileAO8eBq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52299/devtools/browser/feba0c0a-156b-459f-8ea1-8d9d0fdb3512
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659799114567	geckodriver	INFO	Listening on 127.0.0.1:52438
+1659799117644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile7EJCzq"
+1659799118159	Marionette	INFO	Marionette enabled
+1659799118166	Marionette	INFO	Listening on port 52450
+WebDriver BiDi listening on ws://localhost:52439
+Read port: 52450
+1659799118471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile7EJCzq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52439/devtools/browser/65408329-9e0b-4016-a8e9-18902b387bc1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659799133326	Marionette	INFO	Stopped listening on port 52450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659799398775	geckodriver	INFO	Listening on 127.0.0.1:52649
+1659799401843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileT5sJRM"
+1659799402377	Marionette	INFO	Marionette enabled
+1659799402385	Marionette	INFO	Listening on port 52661
+WebDriver BiDi listening on ws://localhost:52650
+Read port: 52661
+1659799402653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileT5sJRM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52650/devtools/browser/e1b9ad86-fdfd-4441-873d-22df41bdfe47
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659799413720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81117
+1659799594328	geckodriver	INFO	Listening on 127.0.0.1:52804
+1659799597405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileMEIqsL"
+1659799597933	Marionette	INFO	Marionette enabled
+1659799597942	Marionette	INFO	Listening on port 52816
+WebDriver BiDi listening on ws://localhost:52805
+Read port: 52816
+1659799598179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileMEIqsL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52805/devtools/browser/023978ee-dc0b-4315-9a72-d856f5af0b37
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659799608802	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81117
+1659799775685	Marionette	INFO	Stopped listening on port 52816
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659800774384	geckodriver	INFO	Listening on 127.0.0.1:53974
+1659800777445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile6Zq7Sg"
+1659800777948	Marionette	INFO	Marionette enabled
+1659800777957	Marionette	INFO	Listening on port 53985
+WebDriver BiDi listening on ws://localhost:53975
+Read port: 53985
+1659800778155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile6Zq7Sg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53975/devtools/browser/fd9ed0d7-e1a5-4eb1-acef-4891168296e8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1659800786194	Marionette	INFO	Stopped listening on port 53985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659800858007	geckodriver	INFO	Listening on 127.0.0.1:54096
+1659800861088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile23gin4"
+1659800861833	Marionette	INFO	Marionette enabled
+1659800861840	Marionette	INFO	Listening on port 54107
+WebDriver BiDi listening on ws://localhost:54097
+Read port: 54107
+1659800862323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile23gin4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54097/devtools/browser/0ab443bb-3e3b-4442-8793-b5ef81120be4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659800873270	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81117
+1659801021882	geckodriver	INFO	Listening on 127.0.0.1:54188
+1659801024951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNXDXm9"
+1659801025345	Marionette	INFO	Marionette enabled
+1659801025352	Marionette	INFO	Listening on port 54198
+WebDriver BiDi listening on ws://localhost:54189
+Read port: 54198
+1659801025534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileNXDXm9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54189/devtools/browser/6d0a367a-a2aa-43d9-88a9-e36b526a1bb0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659801035827	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81117
+1659801584529	geckodriver	INFO	Listening on 127.0.0.1:54266
+1659801587601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofiledPsoPE"
+1659801588004	Marionette	INFO	Marionette enabled
+1659801588012	Marionette	INFO	Listening on port 54276
+WebDriver BiDi listening on ws://localhost:54267
+Read port: 54276
+1659801588196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofiledPsoPE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54267/devtools/browser/80d72888-7954-41c3-8c7d-75b8b5748254
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://opensource-demo.orangehrmlive.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659801597746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1255:36
+c@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:78789
+send/o/<@https://opensource-demo.orangehrmlive.com/webres_62ece32152bb95.35578200/js/jquery/jquery-3.4.1.min.js:2:81117
+1659801721477	geckodriver	INFO	Listening on 127.0.0.1:54347
+1659801724538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilepZHePI"
+1659801724957	Marionette	INFO	Marionette enabled
+1659801724962	Marionette	INFO	Listening on port 54359
+WebDriver BiDi listening on ws://localhost:54348
+Read port: 54359
+1659801725150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilepZHePI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54348/devtools/browser/9a0885bf-e655-498e-ba1b-6bfce17c9287
+1659801899182	geckodriver	INFO	Listening on 127.0.0.1:54421
+1659801902244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile0OKOwj"
+1659801902710	Marionette	INFO	Marionette enabled
+1659801902717	Marionette	INFO	Listening on port 54433
+WebDriver BiDi listening on ws://localhost:54422
+Read port: 54433
+1659801902962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofile0OKOwj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54422/devtools/browser/e21544ee-669c-4ad2-a0fc-c300866cef9c
+1659802004531	geckodriver	INFO	Listening on 127.0.0.1:54490
+1659802007606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilePYutej"
+1659802008031	Marionette	INFO	Marionette enabled
+1659802008038	Marionette	INFO	Listening on port 54501
+WebDriver BiDi listening on ws://localhost:54491
+Read port: 54501
+1659802008233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofilePYutej\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54491/devtools/browser/dbeae751-1441-41e2-b978-c7e57efde024
+1659802201742	geckodriver	INFO	Listening on 127.0.0.1:54564
+1659802204810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileUJVXDE"
+1659802205346	Marionette	INFO	Marionette enabled
+1659802205356	Marionette	INFO	Listening on port 54574
+Read port: 54574
+WebDriver BiDi listening on ws://localhost:54565
+1659802205608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileUJVXDE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54565/devtools/browser/69457d4d-6029-4ed9-ada1-cbf6b494aa6d
+1659802247403	geckodriver	INFO	Listening on 127.0.0.1:54623
+1659802250475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileELzNkf"
+1659802251017	Marionette	INFO	Marionette enabled
+1659802251026	Marionette	INFO	Listening on port 54633
+Read port: 54633
+WebDriver BiDi listening on ws://localhost:54624
+1659802251319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vigne\\AppData\\Local\\Temp\\rust_mozprofileELzNkf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54624/devtools/browser/6683d682-fd58-4f9c-b551-ec84ee4c070c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1659803341924	Marionette	INFO	Stopped listening on port 54633
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659803342341	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:207
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+!!! error running onStopped callback: TypeError: callback is not a function
